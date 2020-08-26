@@ -7,6 +7,13 @@
 # or wget:
 # wget --no-check-certificate http://gist.githubusercontent.com/kmorcinek/2710267/raw/.gitignore
 
+# other stuff that this template didnt ignore yet
+*.ico
+*.csproj
+*.sln
+*.manifest
+Content/**
+
 # User-specific files
 *.suo
 *.user
